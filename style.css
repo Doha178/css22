@@ -1,0 +1,17 @@
+.footer{
+    background-color:beige;
+    color:rgb(38, 36, 36);
+    
+}
+
+.title{
+    text-align: center;
+    
+}
+.staff{
+    float:left;
+    width:33%;
+}
+.clear{
+    clear: left;
+}
